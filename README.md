@@ -326,8 +326,21 @@ CREATE TABLE users (
 
 ---
 
+## 作业汇总：
+- **第2周（作业01）**：https://github.com/ZhangWenjia271/shujukuzuoye01.git
+- **第3周（作业02）**：https://github.com/ZhangWenjia271/shujukuzuoye02.git
+- **第4周（作业03）**：https://github.com/ZhangWenjia271/shujukuzuoye03.git
+- **第5-6周（作业04）**：https://github.com/ZhangWenjia271/shujukuzuoye04.git
+- **第7周（作业05）**：https://github.com/ZhangWenjia271/shujukuzuoye05.git
+- **第8周（实验课作业06）**：使用PDF提交至学习通，得分13/15。
+- **第11-12周（作业07）**：https://github.com/ZhangWenjia271/shujukuzuoye07.git
+- **第13-15周（作业08）**：https://github.com/ZhangWenjia271/shujukuzuoye08.git
+
+---
+
 ## **总结**
 - 总而言之，这一学期以来，我很认真对待这门课程，虽然可能产出的水平还不够好，但是我能认真对待每节理论课，每节实践课，每次课后作业，让自己的实践水平和对数据库的认知都大大提升了一个台阶。每节理论课我都会坐在靠前位置，跟着老师的思路一点点学习（虽然听不懂的时候我也没有勇气当堂提问），实验课的时候我更是三次课全部坐在中间第一排（虽然即使这样我也没能完全完美地操作）。我是个很有兴趣听课的人，不管是什么课，因为我知道任何一位老师能站在讲台上，就说明我一定有太多可以从ta身上学习的东西。一学期的学习下来，我从需要题题依赖AI，处处求助互联网和助教的数据库白痴，到学会了自己独立写一段SQL语句，掌握了DataGrip和PostgreSQL的入门用法，学会了用AI检查与反思而非直接解答。
+- 综合我的课程表现（49/50）、实践操作（48/50）、课后作业（48/50）、课程询问与互动（49/50），我综合给自己打48.5分。
 - 在这一段学习时光里，非常感谢讲解透彻、寓教于乐的陈老师，倾囊相授、耐心解答的助教曾学长，以及其他热心同学的帮助与指点，也要感谢虽然有时候会抽风但是不辞辛劳的百度、Deepseek、DataGrip、PostgreSQL、Python、Github、PyCharm以及我的小电脑等等对我数据库课程学习的支持，当然也要感谢认真的我自己~嘻嘻。
 
 ---
